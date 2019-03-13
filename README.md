@@ -1,1 +1,1 @@
-# hoi4_atom_package
+HoI4 syntax for atom
